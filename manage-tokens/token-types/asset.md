@@ -136,7 +136,7 @@ Mentioned in this doc:
 
 #### Community resources:
 
-* Katie Cooper demo's Asset Tokens during the How to Leverage Tokens Studio to level up your Design System presentation - [YouTube](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_images)
+* Katie Cooper demo's Asset Tokens during the How to Leverage Tokens Studio to level up your Design System presentation - [YouTube](https://www.youtube.com/watch?v=6SbMsPXOF3U)
 
 {% include "../../.gitbook/includes/something-to-share-subm....md" %}
 
